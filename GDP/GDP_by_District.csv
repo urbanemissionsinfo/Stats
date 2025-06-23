@@ -1,0 +1,759 @@
+dtcode23,dtcode11,stdtname,dtname,dtusename,stcode11,stcode23,st2code,stname,weighted_GDP
+549,727,gj_morbi,Morbi,morbi,24,24,GJ,GUJARAT,4.2069524357960075
+530,474,gj_ahmadabad,Ahmadabad,ahmadabad,24,24,GJ,GUJARAT,7.32490098039151
+532,482,gj_anand,Anand,anand,24,24,GJ,GUJARAT,4.589511006680253
+539,728,gj_devbhumi_dwarka,Devbhumi Dwarka,devbhumi_dwarka,24,24,GJ,GUJARAT,2.7791778137176855
+543,477,gj_jamnagar,Jamnagar,jamnagar,24,24,GJ,GUJARAT,5.311307124940592
+545,468,gj_kachchh,Kachchh,kachchh,24,24,GJ,GUJARAT,8.46412475712791
+536,481,gj_bhavnagar,Bhavnagar,bhavnagar,24,24,GJ,GUJARAT,6.977008185153103
+535,488,gj_bharuch,Bharuch,bharuch,24,24,GJ,GUJARAT,7.93053549117727
+557,492,gj_surat,Surat,surat,24,24,GJ,GUJARAT,7.318903266469178
+551,490,gj_navsari,Navsari,navsari,24,24,GJ,GUJARAT,3.4091102467561414
+562,491,gj_valsad,Valsad,valsad,24,24,GJ,GUJARAT,6.101415573684792
+478,724,mp_agar_malwa,Agar Malwa,agar_malwa,23,23,MP,MADHYA PRADESH,0.9007903464867941
+138,146,up_agra,Agra,agra,09,9,UP,UTTAR PRADESH,7.251301985453971
+105,119,rj_ajmer,Ajmer,ajmer,08,8,RJ,RAJASTHAN,8.499583450498218
+633,598,kl_alappuzha,Alappuzha,alappuzha,32,29,KL,KERALA,3.5767793286821448
+139,143,up_aligarh,Aligarh,aligarh,09,9,UP,UTTAR PRADESH,6.253006909628156
+479,465,mp_alirajpur,Alirajpur,alirajpur,23,23,MP,MADHYA PRADESH,1.513175236440113
+59,064,"uk_almora
+","Almora
+","almora
+",05,5,UK,UTTARAKHAND,0.6632298199531429
+106,104,rj_alwar,Alwar,alwar,08,8,RJ,RAJASTHAN,10.606495525339325
+140,178,up_ambedkar_nagar,Ambedkar Nagar,ambedkar_nagar,09,9,UP,UTTAR PRADESH,3.479631285834857
+141,706,up_amethi,Amethi,amethi,09,9,UP,UTTAR PRADESH,2.820397838466765
+142,137,up_amroha,Amroha,amroha,09,9,UP,UTTAR PRADESH,5.767580716496354
+420,384,od_anugul,Anugul,anugul,21,21,OD,ODISHA,4.328815425608216
+480,461,mp_anuppur,Anuppur,anuppur,23,23,MP,MADHYA PRADESH,1.7464296076997945
+533,725,gj_aravalli,Aravalli,aravalli,24,24,GJ,GUJARAT,1.7390698316786084
+481,459,mp_ashoknagar,Ashoknagar,ashoknagar,23,23,MP,MADHYA PRADESH,1.628259102449206
+143,162,up_auraiya,Auraiya,auraiya,09,9,UP,UTTAR PRADESH,3.711906256733421
+144,191,up_azamgarh,Azamgarh,azamgarh,09,9,UP,UTTAR PRADESH,7.624410428228746
+155,149,up_budaun,Budaun,budaun,09,9,UP,UTTAR PRADESH,5.981545480853156
+599,556,ka_bagalkote,Bagalkote,bagalkote,29,26,KA,KARNATAKA,5.518289809500968
+60,063,uk_bageshwar,Bageshwar,bageshwar,05,5,UK,UTTARAKHAND,0.2813330945336698
+145,139,up_baghpat,Baghpat,baghpat,09,9,UP,UTTAR PRADESH,3.9640871544640675
+146,180,up_bahraich,Bahraich,bahraich,09,9,UP,UTTAR PRADESH,5.835929563451031
+482,457,mp_balaghat,Balaghat,balaghat,23,23,MP,MADHYA PRADESH,2.3985052108548297
+421,393,od_balangir,Balangir,balangir,21,21,OD,ODISHA,4.521023573315895
+422,377,od_baleshwar,Baleshwar,baleshwar,21,21,OD,ODISHA,4.413243408093252
+600,565,ka_ballari,Ballari,ballari,29,26,KA,KARNATAKA,5.389368962885888
+147,193,up_ballia,Ballia,ballia,09,9,UP,UTTAR PRADESH,6.607969881892141
+450,719,cg_balod,Balod,balod,22,22,CG,CHHATTISGARH,1.5092699028555459
+451,721,cg_baloda_bazar,Baloda Bazar,baloda_bazar,22,22,CG,CHHATTISGARH,3.0942843271813785
+452,716,cg_balrampur,Balrampur,balrampur,22,22,CG,CHHATTISGARH,0.9192668984307873
+452,182,up_balrampur,Balrampur,balrampur,09,9,UP,UTTAR PRADESH,3.574953759041897
+534,469,gj_banas_kantha,Banas Kantha,banas_kantha,24,24,GJ,GUJARAT,6.604710753293641
+149,170,up_banda,Banda,banda,09,9,UP,UTTAR PRADESH,2.775492348553956
+107,125,rj_banswara,Banswara,banswara,08,8,RJ,RAJASTHAN,3.456771597406795
+150,176,up_bara_banki,Bara Banki,bara_banki,09,9,UP,UTTAR PRADESH,4.726388237672098
+423,370,od_bargarh,Bargarh,bargarh,21,21,OD,ODISHA,3.7465782743108558
+108,128,rj_baran,Baran,baran,08,8,RJ,RAJASTHAN,3.0749077762191677
+151,150,up_bareilly,Bareilly,bareilly,09,9,UP,UTTAR PRADESH,6.971214107807746
+109,115,rj_barmer,Barmer,barmer,08,8,RJ,RAJASTHAN,9.020142589430423
+483,441,mp_barwani,Barwani,barwani,23,23,MP,MADHYA PRADESH,2.989776974585563
+454,414,cg_bastar,Bastar,bastar,22,22,CG,CHHATTISGARH,1.5140798306537504
+152,185,up_basti,Basti,basti,09,9,UP,UTTAR PRADESH,4.260147839666419
+602,555,ka_belagavi,Belagavi,belagavi,29,26,KA,KARNATAKA,11.95955604772423
+453,718,cg_bametara,Bametara,bametara,22,22,CG,CHHATTISGARH,1.3203494461611527
+603,583,ka_bengaluru_rural,Bengaluru Rural,bengaluru_rural,29,26,KA,KARNATAKA,4.362691086887075
+601,572,ka_bangalore,Bangalore,bangalore,29,26,KA,KARNATAKA,6.031093561191114
+484,447,mp_betul,Betul,betul,23,23,MP,MADHYA PRADESH,3.522747132236013
+153,198,up_bhadohi,Bhadohi,bhadohi,09,9,UP,UTTAR PRADESH,2.956828222661288
+425,378,od_bhadrak,Bhadrak,bhadrak,21,21,OD,ODISHA,1.9204575626470353
+110,105,rj_bharatpur,Bharatpur,bharatpur,08,8,RJ,RAJASTHAN,6.539382422058422
+111,122,rj_bhilwara,Bhilwara,bhilwara,08,8,RJ,RAJASTHAN,5.377394661074815
+485,420,mp_bhind,Bhind,bhind,23,23,MP,MADHYA PRADESH,4.112106004941258
+486,444,mp_bhopal,Bhopal,bhopal,23,23,MP,MADHYA PRADESH,4.2187007680515105
+604,558,ka_bidar,Bidar,bidar,29,26,KA,KARNATAKA,3.1783314670042344
+455,417,cg_bijapur,Bijapur,bijapur,22,22,CG,CHHATTISGARH,0.473157705765026
+154,134,up_bijnor,Bijnor,bijnor,09,9,UP,UTTAR PRADESH,7.898694412951772
+112,101,rj_bikaner,Bikaner,bikaner,08,8,RJ,RAJASTHAN,7.620214455731293
+456,406,cg_bilaspur,Bilaspur,bilaspur,22,22,CG,CHHATTISGARH,3.9319610098883735
+461,791,cg_gaurela-pendra-marwahi,Gaurela-Pendra-Marwahi,gaurela-pendra-marwahi,22,22,CG,CHHATTISGARH,0.4702908982701486
+23,030,hp_bilaspur,Bilaspur,bilaspur,02,2,HP,HIMACHAL PRADESH,0.7894749986103267
+292,275,mn_bishnupur,Bishnupur,bishnupur,14,14,MN,MANIPUR,0.3576384510160381
+396,355,jh_bokaro,Bokaro,bokaro,20,20,JH,JHARKHAND,6.39883529622798
+156,142,up_bulandshahr,Bulandshahr,bulandshahr,09,9,UP,UTTAR PRADESH,7.387762759364877
+113,121,rj_bundi,Bundi,bundi,08,8,RJ,RAJASTHAN,2.561151490326954
+487,467,mp_burhanpur,Burhanpur,burhanpur,23,23,MP,MADHYA PRADESH,1.842622934632707
+94,095,dl_central,Central,central,07,7,DL,DELHI,0.33791237005142977
+605,578,ka_chamarajanagara,Chamarajanagara,chamarajanagara,29,26,KA,KARNATAKA,1.624285760179046
+24,023,hp_chamba,Chamba,chamba,02,2,HP,HIMACHAL PRADESH,0.6784999965587933
+62,065,uk_champawat,Champawat,champawat,05,5,UK,UTTARAKHAND,0.5262916689979317
+157,196,up_chandauli,Chandauli,chandauli,09,9,UP,UTTAR PRADESH,3.664014722412565
+293,280,mn_chandel,Chandel,chandel,14,14,MN,MANIPUR,0.2331856620108
+58,055,ch_chandigarh,Chandigarh,chandigarh,04,4,CH,CHANDIGARH,0.37098961006574965
+397,347,jh_chatra,Chatra,chatra,20,20,JH,JHARKHAND,1.7106719047555605
+488,425,mp_chhatarpur,Chhatarpur,chhatarpur,23,23,MP,MADHYA PRADESH,3.0756266887226986
+489,455,mp_chhindwara,Chhindwara,chhindwara,23,23,MP,MADHYA PRADESH,4.575955548859196
+538,731,gj_chota_udaipur,Chota Udaipur,chota_udaipur,24,24,GJ,GUJARAT,1.1995533810159587
+606,582,ka_chikkaballapura,Chikkaballapura,chikkaballapura,29,26,KA,KARNATAKA,3.4828244684155223
+607,570,ka_chikkamagaluru,Chikkamagaluru,chikkamagaluru,29,26,KA,KARNATAKA,2.584649257523317
+608,566,ka_chitradurga,Chitradurga,chitradurga,29,26,KA,KARNATAKA,5.18571928888527
+158,171,up_chitrakoot,Chitrakoot,chitrakoot,09,9,UP,UTTAR PRADESH,1.796395818028489
+114,126,rj_chittaurgarh,Chittaurgarh,chittaurgarh,08,8,RJ,RAJASTHAN,5.949004172793945
+294,274,mn_churachandpur,Churachandpur,churachandpur,14,14,MN,MANIPUR,0.4494846544761644
+115,102,rj_churu,Churu,churu,08,8,RJ,RAJASTHAN,4.569567512546245
+426,381,od_cuttack,Cuttack,cuttack,21,21,OD,ODISHA,3.810920910025825
+540,485,gj_dohad,Dohad,dohad,24,24,GJ,GUJARAT,4.025765121859001
+609,575,ka_dakshina_kannada,Dakshina Kannada,dakshina_kannada,29,26,KA,KARNATAKA,3.7402219653087094
+754,495,dn_daman,Daman,daman,39,36,DN,"DADRA,NAGAR HAVELI,DAMAN & DIU",0.2720890265004365
+490,428,mp_damoh,Damoh,damoh,23,23,MP,MADHYA PRADESH,3.1386763989397433
+560,489,gj_the_dangs,The Dangs,the_dangs,24,24,GJ,GUJARAT,0.34927377575126173
+457,416,cg_dakshin_bastar_dantewada,Dakshin Bastar Dantewada,dakshin_bastar_dantewada,22,22,CG,CHHATTISGARH,0.4602341574175022
+491,422,mp_datia,Datia,datia,23,23,MP,MADHYA PRADESH,2.059100324768265
+116,109,rj_dausa,Dausa,dausa,08,8,RJ,RAJASTHAN,3.7987184686242883
+610,567,ka_davanagere,Davanagere,davanagere,29,26,KA,KARNATAKA,4.3536332443834445
+63,060,uk_dehradun,Dehradun,dehradun,05,5,UK,UTTARAKHAND,4.758120536182464
+427,373,od_deogarh,Deogarh,deogarh,21,21,OD,ODISHA,0.4350573705759703
+159,190,up_deoria,Deoria,deoria,09,9,UP,UTTAR PRADESH,6.214278630357579
+492,437,mp_dewas,Dewas,dewas,23,23,MP,MADHYA PRADESH,4.106149506308139
+319,291,tr_dhalai,Dhalai,dhalai,16,16,TR,TRIPURA,0.549035284859456
+458,412,cg_dhamtari,Dhamtari,dhamtari,22,22,CG,CHHATTISGARH,1.4865671543542351
+399,354,jh_dhanbad,Dhanbad,dhanbad,20,20,JH,JHARKHAND,4.9200257242196175
+493,438,mp_dhar,Dhar,dhar,23,23,MP,MADHYA PRADESH,4.289285428822216
+162,177,up_faizabad,Faizabad,faizabad,09,9,UP,UTTAR PRADESH,3.3980330051556575
+398,350,jh_deoghar,Deoghar,deoghar,20,20,JH,JHARKHAND,3.5918199136899904
+611,562,ka_dharwad,Dharwad,dharwad,29,26,KA,KARNATAKA,4.380466596832626
+428,383,od_dhenkanal,Dhenkanal,dhenkanal,21,21,OD,ODISHA,3.1823640104704354
+117,106,rj_dhaulpur,Dhaulpur,dhaulpur,08,8,RJ,RAJASTHAN,2.5495347726400213
+370,309,as_tinsukia,Tinsukia,tinsukia,18,18,AS,ASSAM,2.8557324146342116
+494,453,mp_dindori,Dindori,dindori,23,23,MP,MADHYA PRADESH,0.877559910144897
+400,362,jh_dumka,Dumka,dumka,20,20,JH,JHARKHAND,2.2345459025318273
+118,124,rj_dungarpur,Dungarpur,dungarpur,08,8,RJ,RAJASTHAN,2.0935611158973586
+459,409,cg_durg,Durg,durg,22,22,CG,CHHATTISGARH,3.9661836011184404
+95,093,dl_east,East,east,07,7,DL,DELHI,0.09988684727142748
+251,244,sk_east_district,East District,east_district,11,11,SK,SIKKIM,0.33448715164576054
+327,294,mg_east_garo_hills,East Garo Hills,east_garo_hills,17,17,MG,MEGHALAYA,0.20610630345909703
+329,298,mg_east_khasi_hills,East Khasi Hills,east_khasi_hills,17,17,MG,MEGHALAYA,3.223878767689139
+495,466,mp_east_nimar,East Nimar,east_nimar,23,23,MP,MADHYA PRADESH,3.4993559303601223
+634,595,kl_ernakulam,Ernakulam,ernakulam,32,29,KL,KERALA,5.1754751145294255
+160,201,up_etah,Etah,etah,09,9,UP,UTTAR PRADESH,3.1738856351059357
+161,161,up_etawah,Etawah,etawah,09,9,UP,UTTAR PRADESH,4.8203331055924465
+163,159,up_farrukhabad,Farrukhabad,farrukhabad,09,9,UP,UTTAR PRADESH,3.293601049610404
+164,172,up_fatehpur,Fatehpur,fatehpur,09,9,UP,UTTAR PRADESH,4.5197826249569655
+165,147,up_firozabad,Firozabad,firozabad,09,9,UP,UTTAR PRADESH,4.781632378108273
+612,561,ka_gadag,Gadag,gadag,29,26,KA,KARNATAKA,3.4542023987162556
+429,389,od_gajapati,Gajapati,gajapati,21,21,OD,ODISHA,1.0615200229398052
+430,388,od_ganjam,Ganjam,ganjam,21,21,OD,ODISHA,5.417109076745973
+401,346,jh_garhwa,Garhwa,garhwa,20,20,JH,JHARKHAND,2.0307273600268516
+460,720,cg_gariaband,Gariaband,gariaband,22,22,CG,CHHATTISGARH,0.9473108197207752
+166,141,up_gautam_buddha_nagar,Gautam Buddha Nagar,gautam_buddha_nagar,09,9,UP,UTTAR PRADESH,3.9008450204730116
+168,195,up_ghazipur,Ghazipur,ghazipur,09,9,UP,UTTAR PRADESH,6.731249812871276
+167,140,up_ghaziabad,Ghaziabad,ghaziabad,09,9,UP,UTTAR PRADESH,2.8933032878264715
+542,729,gj_gir_somnath,Gir Somnath,gir_somnath,24,24,GJ,GUJARAT,3.9332780078066323
+402,349,jh_giridih,Giridih,giridih,20,20,JH,JHARKHAND,4.872031779233
+403,351,jh_godda,Godda,godda,20,20,JH,JHARKHAND,2.9058869464415436
+365,305,as_nagaon,Nagaon,nagaon,18,18,AS,ASSAM,2.1279397105623343
+320,709,tr_gomati,Gomati,gomati,16,16,TR,TRIPURA,0.9867326265508437
+169,183,up_gonda,Gonda,gonda,09,9,UP,UTTAR PRADESH,6.911328467845084
+170,188,up_gorakhpur,Gorakhpur,gorakhpur,09,9,UP,UTTAR PRADESH,7.702335233657643
+404,366,jh_gumla,Gumla,gumla,20,20,JH,JHARKHAND,1.5227772818158192
+496,458,mp_guna,Guna,guna,23,23,MP,MADHYA PRADESH,3.9426331317609673
+497,421,mp_gwalior,Gwalior,gwalior,23,23,MP,MADHYA PRADESH,4.830760323664617
+25,028,hp_hamirpur,Hamirpur,hamirpur,02,2,HP,HIMACHAL PRADESH,0.5357484536349195
+171,168,up_hamirpur,Hamirpur,hamirpur,09,9,UP,UTTAR PRADESH,2.0740250757124556
+120,100,rj_hanumangarh,Hanumangarh,hanumangarh,08,8,RJ,RAJASTHAN,4.309038475999397
+172,705,up_hapur,Hapur,hapur,09,9,UP,UTTAR PRADESH,3.1081020973474223
+498,448,mp_harda,Harda,harda,23,23,MP,MADHYA PRADESH,0.9724174307136576
+173,155,up_hardoi,Hardoi,hardoi,09,9,UP,UTTAR PRADESH,8.037666357887032
+65,068,uk_hardwar,Hardwar,hardwar,05,5,UK,UTTARAKHAND,4.994704077029163
+613,574,ka_hassan,Hassan,hassan,29,26,KA,KARNATAKA,3.78627142813034
+174,144,up_hathras,Hathras,hathras,09,9,UP,UTTAR PRADESH,3.421263361949996
+614,564,ka_haveri,Haveri,haveri,29,26,KA,KARNATAKA,3.2253332152722622
+405,360,jh_hazaribagh,Hazaribagh,hazaribagh,20,20,JH,JHARKHAND,6.2440601156517035
+499,449,mp_hoshangabad,Hoshangabad,hoshangabad,23,23,MP,MADHYA PRADESH,2.5127663574345784
+635,596,kl_idukki,Idukki,idukki,32,29,KL,KERALA,1.2519570425105024
+296,277,mn_imphal_west,Imphal West,imphal_west,14,14,MN,MANIPUR,1.051691080943343
+500,439,mp_indore,Indore,indore,23,23,MP,MADHYA PRADESH,6.465118496371418
+501,451,mp_jabalpur,Jabalpur,jabalpur,23,23,MP,MADHYA PRADESH,4.310400781483289
+431,380,od_jagatsinghapur,Jagatsinghapur,jagatsinghapur,21,21,OD,ODISHA,3.8680807668117745
+121,110,rj_jaipur,Jaipur,jaipur,08,8,RJ,RAJASTHAN,14.387806129126124
+122,114,rj_jaisalmer,Jaisalmer,jaisalmer,08,8,RJ,RAJASTHAN,1.6988396540122668
+432,382,od_jajapur,Jajapur,jajapur,21,21,OD,ODISHA,3.7571829990157903
+175,165,up_jalaun,Jalaun,jalaun,09,9,UP,UTTAR PRADESH,3.400125218201626
+123,116,rj_jalor,Jalor,jalor,08,8,RJ,RAJASTHAN,3.554447586809749
+406,363,jh_jamtara,Jamtara,jamtara,20,20,JH,JHARKHAND,2.301632642629099
+462,405,cg_janjgir_-_champa,Janjgir - Champa,janjgir_-_champa,22,22,CG,CHHATTISGARH,3.4532495047673897
+463,402,cg_jashpur,Jashpur,jashpur,22,22,CG,CHHATTISGARH,1.0068915355843455
+176,194,up_jaunpur,Jaunpur,jaunpur,09,9,UP,UTTAR PRADESH,8.097888640058706
+502,464,mp_jhabua,Jhabua,jhabua,23,23,MP,MADHYA PRADESH,2.437160352005611
+124,129,rj_jhalawar,Jhalawar,jhalawar,08,8,RJ,RAJASTHAN,3.061339978322541
+177,166,up_jhansi,Jhansi,jhansi,09,9,UP,UTTAR PRADESH,3.4839333326884407
+433,371,od_jharsuguda,Jharsuguda,jharsuguda,21,21,OD,ODISHA,3.4284315071004183
+125,103,rj_jhunjhunun,Jhunjhunun,jhunjhunun,08,8,RJ,RAJASTHAN,5.158214153292383
+126,113,rj_jodhpur,Jodhpur,jodhpur,08,8,RJ,RAJASTHAN,12.718490838712512
+544,479,gj_junagadh,Junagadh,junagadh,24,24,GJ,GUJARAT,3.5156446727375625
+464,407,cg_kabeerdham,Kabeerdham,kabeerdham,22,22,CG,CHHATTISGARH,1.3190291314023561
+615,579,ka_kalaburagi,Kalaburagi,kalaburagi,29,26,KA,KARNATAKA,6.588854488606552
+434,395,od_kalahandi,Kalahandi,kalahandi,21,21,OD,ODISHA,3.0912896163999193
+357,321,as_kamrup,Kamrup,kamrup,18,18,AS,ASSAM,2.688612035798976
+435,390,od_kandhamal,Kandhamal,kandhamal,21,21,OD,ODISHA,1.3115452609949367
+26,024,hp_kangra,Kangra,kangra,02,2,HP,HIMACHAL PRADESH,2.005419279659809
+477,413,cg_uttar_bastar_kanker,Uttar Bastar Kanker,uttar_bastar_kanker,22,22,CG,CHHATTISGARH,0.9770371444186423
+178,160,up_kannauj,Kannauj,kannauj,09,9,UP,UTTAR PRADESH,3.094119743474925
+636,589,kl_kannur,Kannur,kannur,32,29,KL,KERALA,2.998134419428756
+180,164,up_kanpur_nagar,Kanpur Nagar,kanpur_nagar,09,9,UP,UTTAR PRADESH,5.509984843988969
+179,163,up_kanpur_dehat,Kanpur Dehat,kanpur_dehat,09,9,UP,UTTAR PRADESH,4.957057174418319
+685,637,py_karaikal,Karaikal,karaikal,34,31,PY,PUDUCHERRY,0.7329114950515142
+127,107,rj_karauli,Karauli,karauli,08,8,RJ,RAJASTHAN,3.902144103135383
+637,588,kl_kasaragod,Kasaragod,kasaragod,32,29,KL,KERALA,1.4450548755413346
+181,202,up_kasganj,Kasganj,kasganj,09,9,UP,UTTAR PRADESH,2.5412748762236643
+503,450,mp_katni,Katni,katni,23,23,MP,MADHYA PRADESH,2.91323792253956
+182,174,up_kaushambi,Kaushambi,kaushambi,09,9,UP,UTTAR PRADESH,2.6921344760527184
+436,379,od_kendrapara,Kendrapara,kendrapara,21,21,OD,ODISHA,3.324917440021568
+437,375,od_kendujhar,Kendujhar,kendujhar,21,21,OD,ODISHA,3.4186886404238415
+183,153,up_kheri,Kheri,kheri,09,9,UP,UTTAR PRADESH,6.6734149070182855
+438,386,od_khordha,Khordha,khordha,21,21,OD,ODISHA,3.6829424212971578
+321,708,tr_khowai,Khowai,khowai,16,16,TR,TRIPURA,0.8519227138834042
+407,365,jh_khunti,Khunti,khunti,20,20,JH,JHARKHAND,0.7668067398215088
+119,099,rj_ganganagar,Ganganagar,ganganagar,08,8,RJ,RAJASTHAN,6.638373119257221
+328,714,mg_east_jaintia_hills,East Jaintia Hills,east_jaintia_hills,17,17,MG,MEGHALAYA,0.4604504652268752
+616,576,ka_kodagu,Kodagu,kodagu,29,26,KA,KARNATAKA,0.8915202272026813
+408,348,jh_kodarma,Kodarma,kodarma,20,20,JH,JHARKHAND,1.715953998150684
+361,300,as_kokrajhar,Kokrajhar,kokrajhar,18,18,AS,ASSAM,1.566718382213829
+617,581,ka_kolar,Kolar,kolar,29,26,KA,KARNATAKA,6.408809646275662
+638,600,kl_kollam,Kollam,kollam,32,29,KL,KERALA,3.7243583575920973
+465,722,cg_kondagaon,Kondagaon,kondagaon,22,22,CG,CHHATTISGARH,0.7754996741581189
+618,560,ka_koppal,Koppal,koppal,29,26,KA,KARNATAKA,5.300221531558551
+439,398,od_koraput,Koraput,koraput,21,21,OD,ODISHA,3.8660573717230338
+466,404,cg_korba,Korba,korba,22,22,CG,CHHATTISGARH,3.791610982329741
+467,400,cg_koriya,Koriya,koriya,22,22,CG,CHHATTISGARH,1.370605502976993
+128,127,rj_kota,Kota,kota,08,8,RJ,RAJASTHAN,4.206379829356738
+639,597,kl_kottayam,Kottayam,kottayam,32,29,KL,KERALA,3.160894245329656
+640,591,kl_kozhikode,Kozhikode,kozhikode,32,29,KL,KERALA,4.188180193836017
+28,026,hp_kullu,Kullu,kullu,02,2,HP,HIMACHAL PRADESH,0.4730527296363773
+184,189,up_kushinagar,Kushinagar,kushinagar,09,9,UP,UTTAR PRADESH,4.4507211798085455
+632,587,ld_lakshadweep,Lakshadweep,lakshadweep,31,28,LD,LAKSHADWEEP,0.010065773
+185,167,up_lalitpur,Lalitpur,lalitpur,09,9,UP,UTTAR PRADESH,3.253923229991738
+409,359,jh_latehar,Latehar,latehar,20,20,JH,JHARKHAND,1.0160145646326841
+410,356,jh_lohardaga,Lohardaga,lohardaga,20,20,JH,JHARKHAND,0.7784047108667589
+186,157,up_lucknow,Lucknow,lucknow,09,9,UP,UTTAR PRADESH,5.525872946281457
+468,411,cg_mahasamund,Mahasamund,mahasamund,22,22,CG,CHHATTISGARH,1.5028075487888246
+686,636,py_mahe,Mahe,mahe,34,31,PY,PUDUCHERRY,0.016653949508489575
+548,730,gj_mahisagar,Mahisagar,mahisagar,24,24,GJ,GUJARAT,1.5532747343564965
+187,169,up_mahoba,Mahoba,mahoba,09,9,UP,UTTAR PRADESH,1.9128290747024757
+189,148,up_mainpuri,Mainpuri,mainpuri,09,9,UP,UTTAR PRADESH,4.25819813425092
+641,592,kl_malappuram,Malappuram,malappuram,32,29,KL,KERALA,4.94250815971025
+440,399,od_malkangiri,Malkangiri,malkangiri,21,21,OD,ODISHA,0.8188606999704453
+619,573,ka_mandya,Mandya,mandya,29,26,KA,KARNATAKA,5.149219981421197
+30,027,hp_mandi,Mandi,mandi,02,2,HP,HIMACHAL PRADESH,1.4219690743810989
+504,454,mp_mandla,Mandla,mandla,23,23,MP,MADHYA PRADESH,1.5392250098207128
+505,433,mp_mandsaur,Mandsaur,mandsaur,23,23,MP,MADHYA PRADESH,3.5704675401770958
+190,145,up_mathura,Mathura,mathura,09,9,UP,UTTAR PRADESH,6.296442180103466
+191,192,up_mau,Mau,mau,09,9,UP,UTTAR PRADESH,4.588204698567194
+441,376,od_mayurbhanj,Mayurbhanj,mayurbhanj,21,21,OD,ODISHA,4.224628348719054
+192,138,up_meerut,Meerut,meerut,09,9,UP,UTTAR PRADESH,7.20507482750104
+193,199,up_mirzapur,Mirzapur,mirzapur,09,9,UP,UTTAR PRADESH,5.990299123959892
+194,135,up_moradabad,Moradabad,moradabad,09,9,UP,UTTAR PRADESH,5.310926506496936
+506,419,mp_morena,Morena,morena,23,23,MP,MADHYA PRADESH,5.710541161914467
+469,717,cg_mungeli,Mungeli,mungeli,22,22,CG,CHHATTISGARH,1.2838546945774436
+195,133,up_muzaffarnagar,Muzaffarnagar,muzaffarnagar,09,9,UP,UTTAR PRADESH,6.729736709656743
+620,577,ka_mysuru,Mysuru,mysuru,29,26,KA,KARNATAKA,5.265929338990955
+442,397,od_nabarangapur,Nabarangapur,nabarangapur,21,21,OD,ODISHA,1.5894053792568537
+129,112,rj_nagaur,Nagaur,nagaur,08,8,RJ,RAJASTHAN,8.126772155777948
+66,066,uk_nainital,Nainital,nainital,05,5,UK,UTTARAKHAND,3.4489402720367552
+470,415,cg_narayanpur,Narayanpur,narayanpur,22,22,CG,CHHATTISGARH,0.14966014713000786
+550,487,gj_narmada,Narmada,narmada,24,24,GJ,GUJARAT,0.9525940522156197
+507,452,mp_narsimhapur,Narsimhapur,narsimhapur,23,23,MP,MADHYA PRADESH,2.059931057238327
+443,385,od_nayagarh,Nayagarh,nayagarh,21,21,OD,ODISHA,1.0978788723474449
+96,094,dl_new_delhi,New Delhi,new_delhi,07,7,DL,DELHI,0.496663380013172
+689,638,an_nicobars,Nicobars,nicobars,35,32,AN,ANDAMAN & NICOBAR,0.019628037
+508,432,mp_neemuch,Neemuch,neemuch,23,23,MP,MADHYA PRADESH,1.8922263566950004
+97,091,dl_north,North,north,07,7,DL,DELHI,0.916891991553962
+252,241,sk_north__district,North  District,north__district,11,11,SK,SIKKIM,0.1948438682835197
+690,639,an_north__&_middle_andaman,North  & Middle Andaman,north__&_middle_andaman,35,32,AN,ANDAMAN & NICOBAR,0.09595211576656938
+98,092,dl_north_east,North East,north_east,07,7,DL,DELHI,0.11217472652382196
+630,585,ga_north_goa,North Goa,north_goa,30,27,GA,GOA,2.765043140911544
+322,292,tr_north_tripura,North Tripura,north_tripura,16,16,TR,TRIPURA,0.8290288912228275
+99,090,dl_north_west,North West,north_west,07,7,DL,DELHI,0.4720333700927584
+444,394,od_nuapada,Nuapada,nuapada,21,21,OD,ODISHA,0.7823295380851589
+411,353,jh_pakur,Pakur,pakur,20,20,JH,JHARKHAND,1.3505699728552383
+642,593,kl_palakkad,Palakkad,palakkad,32,29,KL,KERALA,4.341749860745927
+412,358,jh_palamu,Palamu,palamu,20,20,JH,JHARKHAND,3.8435119428594136
+130,118,rj_pali,Pali,pali,08,8,RJ,RAJASTHAN,6.381962797077571
+552,484,gj_panch_mahals,Panch Mahals,panch_mahals,24,24,GJ,GUJARAT,4.784459920011448
+510,426,mp_panna,Panna,panna,23,23,MP,MADHYA PRADESH,1.6824939236860175
+413,368,jh_pashchimi_singhbhum,Pashchimi Singhbhum,pashchimi_singhbhum,20,20,JH,JHARKHAND,3.0930609047213133
+643,599,kl_pathanamthitta,Pathanamthitta,pathanamthitta,32,29,KL,KERALA,2.0118639262636537
+64,061,uk_garhwal,Garhwal,garhwal,05,5,UK,UTTARAKHAND,2.0307246417938343
+196,151,up_pilibhit,Pilibhit,pilibhit,09,9,UP,UTTAR PRADESH,5.6490018258103065
+197,131,rj_pratapgarh,Pratapgarh,pratapgarh,08,8,RJ,RAJASTHAN,1.4616949268623747
+197,173,up_pratapgarh,Pratapgarh,pratapgarh,09,9,UP,UTTAR PRADESH,5.932190219882283
+687,635,py_puducherry,Puducherry,puducherry,34,31,PY,PUDUCHERRY,1.6538627538215618
+414,357,jh_purbi_singhbhum,Purbi Singhbhum,purbi_singhbhum,20,20,JH,JHARKHAND,4.125249402338104
+445,387,od_puri,Puri,puri,21,21,OD,ODISHA,4.720392453808289
+199,158,up_rae_bareli,Rae Bareli,rae_bareli,09,9,UP,UTTAR PRADESH,6.587417180123414
+621,559,ka_raichur,Raichur,raichur,29,26,KA,KARNATAKA,5.231596742741467
+589,403,cg_raigarh,Raigarh,raigarh,22,22,CG,CHHATTISGARH,4.256209121133981
+472,410,cg_raipur,Raipur,raipur,22,22,CG,CHHATTISGARH,4.88447666179515
+511,446,mp_raisen,Raisen,raisen,23,23,MP,MADHYA PRADESH,3.957160324353111
+473,408,cg_rajnandgaon,Rajnandgaon,rajnandgaon,22,22,CG,CHHATTISGARH,3.087692700544767
+512,442,mp_rajgarh,Rajgarh,rajgarh,23,23,MP,MADHYA PRADESH,2.504442842357486
+132,123,rj_rajsamand,Rajsamand,rajsamand,08,8,RJ,RAJASTHAN,3.7254383518669294
+415,361,jh_ramgarh,Ramgarh,ramgarh,20,20,JH,JHARKHAND,2.860799046525537
+622,584,ka_ramanagara,Ramanagara,ramanagara,29,26,KA,KARNATAKA,5.00432550094325
+200,136,up_rampur,Rampur,rampur,09,9,UP,UTTAR PRADESH,6.073447669003301
+416,364,jh_ranchi,Ranchi,ranchi,20,20,JH,JHARKHAND,5.414617371537642
+513,434,mp_ratlam,Ratlam,ratlam,23,23,MP,MADHYA PRADESH,3.1659673461755555
+446,396,od_rayagada,Rayagada,rayagada,21,21,OD,ODISHA,1.8713788933191084
+514,430,mp_rewa,Rewa,rewa,23,23,MP,MADHYA PRADESH,4.68187586867122
+68,058,uk_rudraprayag,Rudraprayag,rudraprayag,05,5,UK,UTTARAKHAND,0.28669306333631994
+515,427,mp_sagar,Sagar,sagar,23,23,MP,MADHYA PRADESH,5.610872493923734
+201,132,up_saharanpur,Saharanpur,saharanpur,09,9,UP,UTTAR PRADESH,6.676413847192178
+417,352,jh_sahibganj,Sahibganj,sahibganj,20,20,JH,JHARKHAND,2.9350695920961325
+316,288,mz_saiha,Saiha,saiha,15,15,MZ,MIZORAM,0.10781442275611332
+447,372,od_sambalpur,Sambalpur,sambalpur,21,21,OD,ODISHA,2.9569244053596377
+202,754,up_sambhal,Sambhal,sambhal,09,9,UP,UTTAR PRADESH,4.397442307311866
+203,186,up_sant_kabir_nagar,Sant Kabir Nagar,sant_kabir_nagar,09,9,UP,UTTAR PRADESH,3.083149676940375
+418,369,jh_saraikela-kharsawan,Saraikela-kharsawan,saraikela-kharsawan,20,20,JH,JHARKHAND,3.1333589845837597
+516,429,mp_satna,Satna,satna,23,23,MP,MADHYA PRADESH,6.098463698996729
+133,108,rj_sawai_madhopur,Sawai Madhopur,sawai_madhopur,08,8,RJ,RAJASTHAN,2.9395719105342857
+517,445,mp_sehore,Sehore,sehore,23,23,MP,MADHYA PRADESH,3.143576292181716
+518,456,mp_seoni,Seoni,seoni,23,23,MP,MADHYA PRADESH,2.095679124559178
+323,707,tr_sipahijala,Sipahijala,sipahijala,16,16,TR,TRIPURA,4.174920246572705
+100,702,dl_shahdara,Shahdara,shahdara,07,7,DL,DELHI,0.10900717944467671
+519,460,mp_shahdol,Shahdol,shahdol,23,23,MP,MADHYA PRADESH,1.6182329914542295
+204,152,up_shahjahanpur,Shahjahanpur,shahjahanpur,09,9,UP,UTTAR PRADESH,5.346590435107504
+520,436,mp_shajapur,Shajapur,shajapur,23,23,MP,MADHYA PRADESH,1.8379530671064126
+205,704,up_shamli,Shamli,shamli,09,9,UP,UTTAR PRADESH,2.89234154677278
+521,418,mp_sheopur,Sheopur,sheopur,23,23,MP,MADHYA PRADESH,1.5970349662139558
+31,033,hp_shimla,Shimla,shimla,02,2,HP,HIMACHAL PRADESH,1.7414102424154472
+623,568,ka_shivamogga,Shivamogga,shivamogga,29,26,KA,KARNATAKA,3.729501861457835
+522,423,mp_shivpuri,Shivpuri,shivpuri,23,23,MP,MADHYA PRADESH,4.454299279495609
+206,181,up_shrawasti,Shrawasti,shrawasti,09,9,UP,UTTAR PRADESH,1.7267843965733265
+207,184,up_siddharthnagar,Siddharthnagar,siddharthnagar,09,9,UP,UTTAR PRADESH,3.8631157144763657
+523,462,mp_sidhi,Sidhi,sidhi,23,23,MP,MADHYA PRADESH,1.5519188726582396
+134,111,rj_sikar,Sikar,sikar,08,8,RJ,RAJASTHAN,6.568928775350688
+419,367,jh_simdega,Simdega,simdega,20,20,JH,JHARKHAND,1.1937902267179494
+524,463,mp_singrauli,Singrauli,singrauli,23,23,MP,MADHYA PRADESH,4.075038664046752
+32,032,hp_sirmaur,Sirmaur,sirmaur,02,2,HP,HIMACHAL PRADESH,0.8322533544611592
+135,117,rj_sirohi,Sirohi,sirohi,08,8,RJ,RAJASTHAN,2.764461904133155
+208,154,up_sitapur,Sitapur,sitapur,09,9,UP,UTTAR PRADESH,8.16076569194665
+33,031,hp_solan,Solan,solan,02,2,HP,HIMACHAL PRADESH,2.196562495910547
+209,200,up_sonbhadra,Sonbhadra,sonbhadra,09,9,UP,UTTAR PRADESH,7.557371816219224
+101,098,dl_south,South,south,07,7,DL,DELHI,0.5042801947735124
+253,243,sk_south_district,South District,south_district,11,11,SK,SIKKIM,0.5511340014444607
+691,640,an_south_andaman,South Andaman,south_andaman,35,32,AN,ANDAMAN & NICOBAR,1.2536780242334307
+333,295,mg_south_garo_hills,South Garo Hills,south_garo_hills,17,17,MG,MEGHALAYA,1.6090274595898495
+631,586,ga_south_goa,South Goa,south_goa,30,27,GA,GOA,1.9477845380552479
+324,290,tr_south_tripura,South Tripura,south_tripura,16,16,TR,TRIPURA,3.9063152615638126
+103,097,dl_south_west,South West,south_west,07,7,DL,DELHI,0.8980937605054243
+448,392,od_sonepur,Sonepur,sonepur,21,21,OD,ODISHA,0.8519483598594669
+474,723,cg_sukma,Sukma,sukma,22,22,CG,CHHATTISGARH,0.37452970209952513
+210,179,up_sultanpur,Sultanpur,sultanpur,09,9,UP,UTTAR PRADESH,3.9975824141779333
+449,374,od_sundargarh,Sundargarh,sundargarh,21,21,OD,ODISHA,7.550493156901303
+475,715,cg_surajpur,Surajpur,surajpur,22,22,CG,CHHATTISGARH,1.925265629521969
+476,401,cg_surguja,Surguja,surguja,22,22,CG,CHHATTISGARH,1.9527536802621797
+559,493,gj_tapi,Tapi,tapi,24,24,GJ,GUJARAT,2.2482583429655474
+69,059,uk_tehri_garhwal,Tehri Garhwal,tehri_garhwal,05,5,UK,UTTARAKHAND,2.4765901551777705
+644,601,kl_thiruvananthapuram,Thiruvananthapuram,thiruvananthapuram,32,29,KL,KERALA,6.791846759800202
+645,594,kl_thrissur,Thrissur,thrissur,32,29,KL,KERALA,4.894452138044804
+525,424,mp_tikamgarh,Tikamgarh,tikamgarh,23,23,MP,MADHYA PRADESH,1.7288456067323525
+136,120,rj_tonk,Tonk,tonk,08,8,RJ,RAJASTHAN,4.126422248380857
+624,571,ka_tumakuru,Tumakuru,tumakuru,29,26,KA,KARNATAKA,5.892174338585995
+137,130,rj_udaipur,Udaipur,udaipur,08,8,RJ,RAJASTHAN,7.622307858066316
+340,324,as_baksa,Baksa,baksa,18,18,AS,ASSAM,1.664685261971228
+70,067,uk_udham_singh_nagar,Udham Singh Nagar,udham_singh_nagar,05,5,UK,UTTARAKHAND,5.513587695688975
+625,569,ka_udupi,Udupi,udupi,29,26,KA,KARNATAKA,2.003433218231925
+526,435,mp_ujjain,Ujjain,ujjain,23,23,MP,MADHYA PRADESH,4.941801514555842
+527,431,mp_umaria,Umaria,umaria,23,23,MP,MADHYA PRADESH,1.5580159022494227
+34,029,hp_una,Una,una,02,2,HP,HIMACHAL PRADESH,1.0129586369348593
+211,156,up_unnao,Unnao,unnao,09,9,UP,UTTAR PRADESH,6.8058783993246115
+325,710,tr_unokoti,Unokoti,unokoti,16,16,TR,TRIPURA,1.170946954865004
+626,563,ka_uttara_kannada,Uttara Kannada,uttara_kannada,29,26,KA,KARNATAKA,2.6859680011659792
+561,486,gj_vadodara,Vadodara,vadodara,24,24,GJ,GUJARAT,7.945891847751101
+212,197,up_varanasi,Varanasi,varanasi,09,9,UP,UTTAR PRADESH,4.382989356936249
+528,443,mp_vidisha,Vidisha,vidisha,23,23,MP,MADHYA PRADESH,3.9572627355142824
+628,557,ka_vijayapura,Vijayapura,vijayapura,29,26,KA,KARNATAKA,5.685988780712696
+646,590,kl_wayanad,Wayanad,wayanad,32,29,KL,KERALA,0.7541896568024302
+254,242,sk_west_district,West District,west_district,11,11,SK,SIKKIM,0.365140413208091
+104,096,dl_west,West,west,07,7,DL,DELHI,0.41673562313179857
+336,293,mg_west_garo_hills,West Garo Hills,west_garo_hills,17,17,MG,MEGHALAYA,1.9240338966799067
+338,296,mg_west_khasi_hills,West Khasi Hills,west_khasi_hills,17,17,MG,MEGHALAYA,0.23012267261317698
+529,440,mp_west_nimar,West Nimar,west_nimar,23,23,MP,MADHYA PRADESH,3.136840538189199
+326,289,tr_west_tripura,West Tripura,west_tripura,16,16,TR,TRIPURA,5.259984966161553
+629,580,ka_yadgir,Yadgir,yadgir,29,26,KA,KARNATAKA,2.6343288483775047
+688,634,py_yanam,Yanam,yanam,34,31,PY,PUDUCHERRY,0.07108170242310567
+424,391,od_baudh,Baudh,baudh,21,21,OD,ODISHA,0.566897202815693
+313,287,mz_lawngtlai,Lawngtlai,lawngtlai,15,15,MZ,MIZORAM,0.19728709753222562
+318,285,mz_serchhip,Serchhip,serchhip,15,15,MZ,MIZORAM,0.08065416096235702
+312,282,mz_kolasib,Kolasib,kolasib,15,15,MZ,MIZORAM,0.16775030282047593
+315,281,mz_mamit,Mamit,mamit,15,15,MZ,MIZORAM,0.6693138692143369
+314,286,mz_lunglei,Lunglei,lunglei,15,15,MZ,MIZORAM,0.3525421772192432
+356,312,as_jorhat,Jorhat,jorhat,18,18,AS,ASSAM,1.1321855505356853
+341,303,as_barpeta,Barpeta,barpeta,18,18,AS,ASSAM,1.588538493352833
+346,320,as_chirang,Chirang,chirang,18,18,AS,ASSAM,1.7724502559254753
+343,319,as_bongaigaon,Bongaigaon,bongaigaon,18,18,AS,ASSAM,0.8731952316465176
+366,323,as_nalbari,Nalbari,nalbari,18,18,AS,ASSAM,0.9656480296846573
+371,326,as_udalguri,Udalguri,udalguri,18,18,AS,ASSAM,1.0897712463249873
+358,322,as_kamrup_metropolitan,Kamrup Metropolitan,kamrup_metropolitan,18,18,AS,ASSAM,2.2718341182553554
+364,304,as_morigaon,Morigaon,morigaon,18,18,AS,ASSAM,1.1536104776586764
+351,315,as_dima_hasao,Dima Hasao,dima_hasao,18,18,AS,ASSAM,0.39210838628852507
+368,306,as_sonitpur,Sonitpur,sonitpur,18,18,AS,ASSAM,1.6108085746172578
+348,308,as_dhemaji,Dhemaji,dhemaji,18,18,AS,ASSAM,0.5872684156670458
+367,311,as_sivasagar,Sivasagar,sivasagar,18,18,AS,ASSAM,1.1821884598323478
+350,310,as_dibrugarh,Dibrugarh,dibrugarh,18,18,AS,ASSAM,3.115610244068712
+353,313,as_golaghat,Golaghat,golaghat,18,18,AS,ASSAM,2.206640332789785
+344,316,as_cachar,Cachar,cachar,18,18,AS,ASSAM,2.6282496914410514
+360,317,as_karimganj,Karimganj,karimganj,18,18,AS,ASSAM,3.772563195946096
+354,318,as_hailakandi,Hailakandi,hailakandi,18,18,AS,ASSAM,0.6961012875080997
+12,991,jk_mirpur,Mirpur,mirpur,01,1,JK,JAMMU & KASHMIR,2.8856643141327605
+13,992,jk_muzaffarabad,Muzaffarabad,muzaffarabad,01,1,JK,JAMMU & KASHMIR,2.16409315475237
+15,005,jk_punch,Punch,punch,01,1,JK,JAMMU & KASHMIR,1.7978535928147295
+1,014,jk_anantnag,Anantnag,anantnag,01,1,JK,JAMMU & KASHMIR,1.2363761748775195
+4,008,jk_baramula,Baramula,baramula,01,1,JK,JAMMU & KASHMIR,1.176257356961564
+8,007,jk_kathua,Kathua,kathua,01,1,JK,JAMMU & KASHMIR,1.9798730715990045
+22,019,jk_udhampur,Udhampur,udhampur,01,1,JK,JAMMU & KASHMIR,1.5947836066052232
+198,175,up_prayagraj,Prayagraj,prayagraj,09,9,UP,UTTAR PRADESH,11.261253072801198
+332,297,mg_ribhoi,Ribhoi,ribhoi,17,17,MG,MEGHALAYA,1.525480671482954
+102,703,dl_south_east,South East,south_east,07,7,DL,DELHI,0.3215004644150352
+335,713,mg_south_west_khasi_hills,South West Khasi Hills,south_west_khasi_hills,17,17,MG,MEGHALAYA,0.9043683583036067
+334,711,mg_south_west_garo_hills,South West Garo Hills,south_west_garo_hills,17,17,MG,MEGHALAYA,0.7453445620633008
+331,712,mg_north_garo_hills,North Garo Hills,north_garo_hills,17,17,MG,MEGHALAYA,0.22095618649789414
+337,299,mg_west_jaintia_hills,West Jaintia Hills,west_jaintia_hills,17,17,MG,MEGHALAYA,0.6681332032982861
+308,283,mz_aizawl,Aizawl,aizawl,15,15,MZ,MIZORAM,0.4624777202111722
+349,301,as_dhubri,Dhubri,dhubri,18,18,AS,ASSAM,1.301345849465666
+352,302,as_goalpara,Goalpara,goalpara,18,18,AS,ASSAM,0.8986604924202797
+2,002,jk_badgam,Badgam,badgam,01,1,JK,JAMMU & KASHMIR,1.2025876898565344
+3,009,jk_bandipore,Bandipore,bandipore,01,1,JK,JAMMU & KASHMIR,0.5158627844478947
+6,011,jk_ganderbal,Ganderbal,ganderbal,01,1,JK,JAMMU & KASHMIR,1.3488686338308495
+10,015,jk_kulgam,Kulgam,kulgam,01,1,JK,JAMMU & KASHMIR,0.7898412309709489
+11,001,jk_kupwara,Kupwara,kupwara,01,1,JK,JAMMU & KASHMIR,1.0146638555844392
+14,012,jk_pulwama,Pulwama,pulwama,01,1,JK,JAMMU & KASHMIR,1.061650607024066
+16,006,jk_rajouri,Rajouri,rajouri,01,1,JK,JAMMU & KASHMIR,0.8587980875091789
+17,017,jk_ramban,Ramban,ramban,01,1,JK,JAMMU & KASHMIR,0.42498973042453636
+18,020,jk_reasi,Reasi,reasi,01,1,JK,JAMMU & KASHMIR,0.7536299939287795
+20,013,jk_shupiyan,Shupiyan,shupiyan,01,1,JK,JAMMU & KASHMIR,0.4244831032822613
+21,010,jk_srinagar,Srinagar,srinagar,01,1,JK,JAMMU & KASHMIR,0.8287433088173272
+752,003,la_leh,Leh,leh,38,35,LA,LADAKH,1.1926424048469466
+751,004,la_kargil,Kargil,kargil,38,35,LA,LADAKH,0.18200791339451913
+9,018,jk_kishtwar,Kishtwar,kishtwar,01,1,JK,JAMMU & KASHMIR,0.3457106220503467
+5,016,jk_doda,Doda,doda,01,1,JK,JAMMU & KASHMIR,0.647457442973118
+19,022,jk_samba,Samba,samba,01,1,JK,JAMMU & KASHMIR,1.728769257319744
+345,755,as_charaideo,Charaideo,charaideo,18,18,AS,ASSAM,0.5163281984306838
+342,756,as_biswanath,Biswanath,biswanath,18,18,AS,ASSAM,0.5338212424632508
+363,760,as_majuli,Majuli,majuli,18,18,AS,ASSAM,0.2910977117876722
+355,757,as_hojai,Hojai,hojai,18,18,AS,ASSAM,0.8101165003717876
+369,758,as_south_salmara_mancachar,South Salmara Mancachar,south_salmara_mancachar,18,18,AS,ASSAM,0.7635940915496537
+359,314,as_karbi_anglong,Karbi Anglong,karbi_anglong,18,18,AS,ASSAM,2.5578909213048338
+372,759,as_west_karbi_anglong,West Karbi Anglong,west_karbi_anglong,18,18,AS,ASSAM,0.6194104839006949
+295,278,mn_imphal_east,Imphal East,imphal_east,14,14,MN,MANIPUR,0.5090249552521809
+297,766,mn_jiribam,Jiribam,jiribam,14,14,MN,MANIPUR,0.055130804743993095
+509,782,mp_niwari,Niwari,niwari,23,23,MP,MADHYA PRADESH,1.3536466965431493
+531,480,gj_amreli,Amreli,amreli,24,24,GJ,GUJARAT,3.3466177489145235
+755,494,dn_diu,Diu,diu,39,36,DN,"DADRA,NAGAR HAVELI,DAMAN & DIU",0.09213482110846177
+554,478,gj_porbandar,Porbandar,porbandar,24,24,GJ,GUJARAT,1.9645451885103429
+555,476,gj_rajkot,Rajkot,rajkot,24,24,GJ,GUJARAT,8.805046651174994
+558,475,gj_surendranagar,Surendranagar,surendranagar,24,24,GJ,GUJARAT,4.517296597237311
+537,726,gj_botad,Botad,botad,24,24,GJ,GUJARAT,0.9969936031618724
+546,483,gj_kheda,Kheda,kheda,24,24,GJ,GUJARAT,4.336071628981062
+547,471,gj_mahesana,Mahesana,mahesana,24,24,GJ,GUJARAT,7.7819014514852025
+541,473,gj_gandhinagar,Gandhinagar,gandhinagar,24,24,GJ,GUJARAT,3.74039915578457
+553,470,gj_patan,Patan,patan,24,24,GJ,GUJARAT,3.5442447113718245
+692,532,ts_adilabad,Adilabad,adilabad,36,33,TS,TELANGANA,2.09694178114711
+563,522,mh_ahmadnagar,Ahmadnagar,ahmadnagar,27,25,MH,MAHARASHTRA,11.505581607932596
+564,501,mh_akola,Akola,akola,27,25,MH,MAHARASHTRA,5.7160808769474745
+373,774,wb_alipurduar,Alipurduar,alipurduar,19,19,WB,WEST BENGAL,3.6656350610944175
+565,503,mh_amravati,Amravati,amravati,27,25,MH,MAHARASHTRA,7.225971663477116
+72,070,hr_ambala,Ambala,ambala,06,6,HR,HARYANA,2.7754344124524954
+35,049,pb_amritsar,Amritsar,amritsar,03,3,PB,PUNJAB,7.775387949659171
+255,260,ar_anjaw,Anjaw,anjaw,12,12,AR,ARUNACHAL PRADESH,0.03648042158974739
+213,209,bh_araria,Araria,araria,10,10,BH,BIHAR,5.218777544137511
+214,240,bh_arwal,Arwal,arwal,10,10,BH,BIHAR,1.2067982160080155
+566,235,bh_aurangabad,Aurangabad,aurangabad,10,10,BH,BIHAR,4.516676733345643
+566,515,mh_aurangabad,Aurangabad,aurangabad,27,25,MH,MAHARASHTRA,8.222231617689452
+216,225,bh_banka,Banka,banka,10,10,BH,BIHAR,4.133090557775724
+374,339,wb_bankura,Bankura,bankura,19,19,WB,WEST BENGAL,7.827324270970404
+391,335,wb_purba_bardhaman,Purba Bardhaman,purba_bardhaman,19,19,WB,WEST BENGAL,6.483179737501026
+36,054,pb_barnala,Barnala,barnala,03,3,PB,PUNJAB,1.1308815380302488
+37,046,pb_bathinda,Bathinda,bathinda,03,3,PB,PUNJAB,4.786803840347178
+217,222,bh_begusarai,Begusarai,begusarai,10,10,BH,BIHAR,5.755217929309171
+226,233,bh_kaimur_(bhabua),Kaimur (bhabua),kaimur_(bhabua),10,10,BH,BIHAR,3.1423550127814344
+218,224,bh_bhagalpur,Bhagalpur,bhagalpur,10,10,BH,BIHAR,5.663046703415499
+567,506,mh_bhandara,Bhandara,bhandara,27,25,MH,MAHARASHTRA,2.0812886711766927
+73,081,hr_bhiwani,Bhiwani,bhiwani,06,6,HR,HARYANA,3.2373977516866623
+219,231,bh_bhojpur,Bhojpur,bhojpur,10,10,BH,BIHAR,4.8666373690952005
+568,523,mh_bid,Bid,bid,27,25,MH,MAHARASHTRA,7.325236732049248
+375,334,wb_birbhum,Birbhum,birbhum,19,19,WB,WEST BENGAL,6.161662269799214
+569,500,mh_buldana,Buldana,buldana,27,25,MH,MAHARASHTRA,4.211838321470297
+220,232,bh_buxar,Buxar,buxar,10,10,BH,BIHAR,2.408228522775695
+61,057,uk_chamoli,Chamoli,chamoli,05,5,UK,UTTARAKHAND,0.4971275060879455
+570,509,mh_chandrapur,Chandrapur,chandrapur,27,25,MH,MAHARASHTRA,5.86289099264022
+256,253,ar_changlang,Changlang,changlang,12,12,AR,ARUNACHAL PRADESH,0.38159387910153475
+377,331,wb_dakshin_dinajpur,Dakshin Dinajpur,dakshin_dinajpur,19,19,WB,WEST BENGAL,7.450664761983282
+221,215,bh_darbhanga,Darbhanga,darbhanga,10,10,BH,BIHAR,5.841994647982476
+378,327,wb_darjiling,Darjiling,darjiling,19,19,WB,WEST BENGAL,3.220406848308237
+571,498,mh_dhule,Dhule,dhule,27,25,MH,MAHARASHTRA,4.65941956832441
+275,257,ar_upper_dibang_valley,Upper Dibang Valley,upper_dibang_valley,12,12,AR,ARUNACHAL PRADESH,0.021126713275502685
+287,271,nl_peren,Peren,peren,13,13,NL,NAGALAND,0.13408028622734272
+257,247,ar_east_kameng,East Kameng,east_kameng,12,12,AR,ARUNACHAL PRADESH,0.08338673800000104
+392,345,wb_purba_medinipur,Purba Medinipur,purba_medinipur,19,19,WB,WEST BENGAL,6.675172541300313
+75,088,hr_faridabad,Faridabad,faridabad,06,6,HR,HARYANA,2.3507826245060035
+38,045,pb_faridkot,Faridkot,faridkot,03,3,PB,PUNJAB,1.8761105955498303
+76,078,hr_fatehabad,Fatehabad,fatehabad,06,6,HR,HARYANA,2.2373284429965326
+39,040,pb_fatehgarh_sahib,Fatehgarh Sahib,fatehgarh_sahib,03,3,PB,PUNJAB,2.714350253464894
+40,701,pb_fazilka,Fazilka,fazilka,03,3,PB,PUNJAB,3.804206925735164
+41,043,pb_firozpur,Firozpur,firozpur,03,3,PB,PUNJAB,2.8542842523546073
+572,508,mh_gadchiroli,Gadchiroli,gadchiroli,27,25,MH,MAHARASHTRA,1.3461255931853027
+222,236,bh_gaya,Gaya,gaya,10,10,BH,BIHAR,9.378543804026961
+573,507,mh_gondiya,Gondiya,gondiya,27,25,MH,MAHARASHTRA,3.256471549930482
+223,217,bh_gopalganj,Gopalganj,gopalganj,10,10,BH,BIHAR,4.596777623141222
+42,035,pb_gurdaspur,Gurdaspur,gurdaspur,03,3,PB,PUNJAB,3.747095272231696
+77,086,hr_gurugram,Gurugram,gurugram,06,6,HR,HARYANA,3.566743573068498
+380,341,wb_howrah,Howrah,howrah,19,19,WB,WEST BENGAL,3.963619997101528
+574,512,mh_hingoli,Hingoli,hingoli,27,25,MH,MAHARASHTRA,3.2295508500039594
+78,080,hr_hisar,Hisar,hisar,06,6,HR,HARYANA,5.999065005738676
+43,038,pb_hoshiarpur,Hoshiarpur,hoshiarpur,03,3,PB,PUNJAB,3.4255911969026567
+379,338,wb_hooghly,Hooghly,hooghly,19,19,WB,WEST BENGAL,5.66714343842102
+694,536,ts_hyderabad,Hyderabad,hyderabad,36,33,TS,TELANGANA,0.5592399635851493
+225,239,bh_jehanabad,Jehanabad,jehanabad,10,10,BH,BIHAR,2.852607415870758
+44,037,pb_jalandhar,Jalandhar,jalandhar,03,3,PB,PUNJAB,4.3639919200085835
+575,499,mh_jalgaon,Jalgaon,jalgaon,27,25,MH,MAHARASHTRA,11.709894027724816
+576,514,mh_jalna,Jalna,jalna,27,25,MH,MAHARASHTRA,4.372443774560911
+381,328,wb_jalpaiguri,Jalpaiguri,jalpaiguri,19,19,WB,WEST BENGAL,5.663797217293762
+224,238,bh_jamui,Jamui,jamui,10,10,BH,BIHAR,3.327139223449642
+79,083,hr_jhajjar,Jhajjar,jhajjar,06,6,HR,HARYANA,3.2406549512865435
+80,077,hr_jind,Jind,jind,06,6,HR,HARYANA,3.7713481458571794
+81,073,hr_kaithal,Kaithal,kaithal,06,6,HR,HARYANA,2.8271121492307167
+45,036,pb_kapurthala,Kapurthala,kapurthala,03,3,PB,PUNJAB,2.1961495633710792
+700,534,ts_karimnagar,Karimnagar,karimnagar,36,33,TS,TELANGANA,2.131254071962437
+82,074,hr_karnal,Karnal,karnal,06,6,HR,HARYANA,5.633498394576189
+227,212,bh_katihar,Katihar,katihar,10,10,BH,BIHAR,5.030171380968506
+228,223,bh_khagaria,Khagaria,khagaria,10,10,BH,BIHAR,2.7965399321163855
+693,753,ts_bhadradri_kothagudem,Bhadradri Kothagudem,bhadradri_kothagudem,36,33,TS,TELANGANA,3.0670028005326295
+27,034,hp_kinnaur,Kinnaur,kinnaur,02,2,HP,HIMACHAL PRADESH,0.1267639223315652
+307,279,mn_ukhrul,Ukhrul,ukhrul,14,14,MN,MANIPUR,0.24698244654856663
+288,266,nl_phek,Phek,phek,13,13,NL,NAGALAND,0.18987248003990828
+229,210,bh_kishanganj,Kishanganj,kishanganj,10,10,BH,BIHAR,2.6473652804080614
+376,329,wb_cooch_behar,Cooch Behar,cooch_behar,19,19,WB,WEST BENGAL,9.115887342720345
+577,530,mh_kolhapur,Kolhapur,kolhapur,27,25,MH,MAHARASHTRA,7.268049043769587
+384,342,wb_kolkata,Kolkata,kolkata,19,19,WB,WEST BENGAL,0.5591616060673092
+83,072,hr_kurukshetra,Kurukshetra,kurukshetra,06,6,HR,HARYANA,2.2738293409273402
+261,256,ar_kurung_kumey,Kurung Kumey,kurung_kumey,12,12,AR,ARUNACHAL PRADESH,0.08769882146424131
+29,025,hp_lahul_&_spiti,Lahul & Spiti,lahul_&_spiti,02,2,HP,HIMACHAL PRADESH,0.058300893504256886
+230,227,bh_lakhisarai,Lakhisarai,lakhisarai,10,10,BH,BIHAR,2.559212622562275
+578,524,mh_latur,Latur,latur,27,25,MH,MAHARASHTRA,5.473556437849227
+263,259,ar_lohit,Lohit,lohit,12,12,AR,ARUNACHAL PRADESH,0.07032378143586933
+265,258,ar_lower_dibang_valley,Lower Dibang Valley,lower_dibang_valley,12,12,AR,ARUNACHAL PRADESH,0.07673288519682175
+46,041,pb_ludhiana,Ludhiana,ludhiana,03,3,PB,PUNJAB,6.567282017775571
+231,213,bh_madhepura,Madhepura,madhepura,10,10,BH,BIHAR,3.137887360362747
+232,207,bh_madhubani,Madhubani,madhubani,10,10,BH,BIHAR,7.313022819730935
+704,538,ts_mahabubnagar,Mahabubnagar,mahabubnagar,36,33,TS,TELANGANA,3.2352510151869924
+188,187,up_mahrajganj,Mahrajganj,mahrajganj,09,9,UP,UTTAR PRADESH,3.8631621215075636
+84,084,hr_mahendragarh,Mahendragarh,mahendragarh,06,6,HR,HARYANA,1.9529649270033862
+385,332,wb_maldah,Maldah,maldah,19,19,WB,WEST BENGAL,6.199067833425726
+48,047,pb_mansa,Mansa,mansa,03,3,PB,PUNJAB,1.3162055307007996
+718,741,ts_siddipet,Siddipet,siddipet,36,33,TS,TELANGANA,3.3338049015515496
+85,087,hr_nuh,Nuh,nuh,06,6,HR,HARYANA,3.681223902271511
+49,042,pb_moga,Moga,moga,03,3,PB,PUNJAB,2.362392720049093
+290,264,nl_wokha,Wokha,wokha,13,13,NL,NAGALAND,0.4857304405540006
+56,044,pb_sri_muktsar_sahib,Sri Muktsar Sahib,sri_muktsar_sahib,03,3,PB,PUNJAB,2.419922205190888
+579,519,mh_mumbai,Mumbai,mumbai,27,25,MH,MAHARASHTRA,0.3971824492111815
+233,226,bh_munger,Munger,munger,10,10,BH,BIHAR,2.744642850950827
+387,333,wb_murshidabad,Murshidabad,murshidabad,19,19,WB,WEST BENGAL,13.047057213112765
+234,216,bh_muzaffarpur,Muzaffarpur,muzaffarpur,10,10,BH,BIHAR,8.190155674607492
+388,336,wb_nadia,Nadia,nadia,19,19,WB,WEST BENGAL,11.744787478797482
+581,505,mh_nagpur,Nagpur,nagpur,27,25,MH,MAHARASHTRA,8.89655286974333
+235,229,bh_nalanda,Nalanda,nalanda,10,10,BH,BIHAR,6.605286140541136
+710,539,ts_nalgonda,Nalgonda,nalgonda,36,33,TS,TELANGANA,4.7178116802313
+582,511,mh_nanded,Nanded,nanded,27,25,MH,MAHARASHTRA,5.546525986188588
+583,497,mh_nandurbar,Nandurbar,nandurbar,27,25,MH,MAHARASHTRA,3.5274543902538165
+584,516,mh_nashik,Nashik,nashik,27,25,MH,MAHARASHTRA,15.717601330532727
+236,237,bh_nawada,Nawada,nawada,10,10,BH,BIHAR,3.699420816218912
+55,039,pb_shahid_bhagat_singh_nagar,Shahid Bhagat Singh Nagar,shahid_bhagat_singh_nagar,03,3,PB,PUNJAB,1.5309884357465116
+713,533,ts_nizamabad,Nizamabad,nizamabad,36,33,TS,TELANGANA,4.503517892843486
+389,337,wb_north_twenty_four_pargan*,North Twenty Four Pargan*,north_twenty_four_pargan*,19,19,WB,WEST BENGAL,10.068631076679488
+585,525,mh_osmanabad,Osmanabad,osmanabad,27,25,MH,MAHARASHTRA,2.710363229627354
+586,732,mh_palghar,Palghar,palghar,27,25,MH,MAHARASHTRA,7.065938889223632
+86,089,hr_palwal,Palwal,palwal,06,6,HR,HARYANA,3.9525440607246796
+88,075,hr_panipat,Panipat,panipat,06,6,HR,HARYANA,3.246494790994114
+270,248,ar_papum_pare,Papum Pare,papum_pare,12,12,AR,ARUNACHAL PRADESH,0.7277760468720642
+587,513,mh_parbhani,Parbhani,parbhani,27,25,MH,MAHARASHTRA,5.249944651358914
+237,203,bh_pashchim_champaran,Pashchim Champaran,pashchim_champaran,10,10,BH,BIHAR,7.2622942046235615
+386,344,wb_medinipur_west,Medinipur West,medinipur_west,19,19,WB,WEST BENGAL,6.733315108454281
+50,773,pb_pathankot,Pathankot,pathankot,03,3,PB,PUNJAB,1.5346135746181109
+51,048,pb_patiala,Patiala,patiala,03,3,PB,PUNJAB,6.045371754109441
+238,230,bh_patna,Patna,patna,10,10,BH,BIHAR,9.353895629058789
+67,062,uk_pithoragarh,Pithoragarh,pithoragarh,05,5,UK,UTTARAKHAND,1.0178079380836194
+588,521,mh_pune,Pune,pune,27,25,MH,MAHARASHTRA,19.73608664382166
+239,204,bh_purba_champaran,Purba Champaran,purba_champaran,10,10,BH,BIHAR,10.726740543953012
+240,211,bh_purnia,Purnia,purnia,10,10,BH,BIHAR,6.297665175022317
+393,340,wb_puruliya,Puruliya,puruliya,19,19,WB,WEST BENGAL,6.7567882427849035
+589,520,mh_raigarh,Raigarh,raigarh,27,25,MH,MAHARASHTRA,9.975347914026027
+716,537,ts_ranga_reddy,Ranga Reddy,ranga_reddy,36,33,TS,TELANGANA,6.928262767369726
+590,528,mh_ratnagiri,Ratnagiri,ratnagiri,27,25,MH,MAHARASHTRA,2.443884679518721
+89,085,hr_rewari,Rewari,rewari,06,6,HR,HARYANA,2.895170703948504
+90,082,hr_rohtak,Rohtak,rohtak,06,6,HR,HARYANA,3.2244155691640226
+241,234,bh_rohtas,Rohtas,rohtas,10,10,BH,BIHAR,5.208111600444744
+52,051,pb_rupnagar,Rupnagar,rupnagar,03,3,PB,PUNJAB,2.1258881526244715
+242,214,bh_saharsa,Saharsa,saharsa,10,10,BH,BIHAR,3.4309968102831094
+243,221,bh_samastipur,Samastipur,samastipur,10,10,BH,BIHAR,7.014584665881826
+591,531,mh_sangli,Sangli,sangli,27,25,MH,MAHARASHTRA,5.046048273516611
+54,053,pb_sangrur,Sangrur,sangrur,03,3,PB,PUNJAB,3.5344556011831454
+244,219,bh_saran,Saran,saran,10,10,BH,BIHAR,7.880775989865576
+53,052,pb_sahibzada_ajit_singh_nag*,Sahibzada Ajit Singh Nag*,sahibzada_ajit_singh_nag*,03,3,PB,PUNJAB,3.5344098052456396
+592,527,mh_satara,Satara,satara,27,25,MH,MAHARASHTRA,6.056710540875996
+303,272,mn_senapati,Senapati,senapati,14,14,MN,MANIPUR,0.44127536214258195
+245,228,bh_sheikhpura,Sheikhpura,sheikhpura,10,10,BH,BIHAR,1.276280199769087
+246,205,bh_sheohar,Sheohar,sheohar,10,10,BH,BIHAR,1.31210740066463
+593,529,mh_sindhudurg,Sindhudurg,sindhudurg,27,25,MH,MAHARASHTRA,1.070269965348921
+91,079,hr_sirsa,Sirsa,sirsa,06,6,HR,HARYANA,4.827977971165032
+247,206,bh_sitamarhi,Sitamarhi,sitamarhi,10,10,BH,BIHAR,6.175779678239799
+248,218,bh_siwan,Siwan,siwan,10,10,BH,BIHAR,5.7186674065985486
+594,526,mh_solapur,Solapur,solapur,27,25,MH,MAHARASHTRA,8.971308805813441
+92,076,hr_sonipat,Sonipat,sonipat,06,6,HR,HARYANA,4.209020626037262
+394,343,wb_south_twenty_four_pargana,South Twenty Four Pargana,south_twenty_four_pargana,19,19,WB,WEST BENGAL,9.869452510894913
+580,518,mh_mumbai_suburban,Mumbai Suburban,mumbai_suburban,27,25,MH,MAHARASHTRA,1.7153801338326762
+249,208,bh_supaul,Supaul,supaul,10,10,BH,BIHAR,4.955861686385787
+304,273,mn_tamenglong,Tamenglong,tamenglong,14,14,MN,MANIPUR,0.26160581485922507
+57,050,pb_tarn_taran,Tarn Taran,tarn_taran,03,3,PB,PUNJAB,3.849968809946383
+273,245,ar_tawang,Tawang,tawang,12,12,AR,ARUNACHAL PRADESH,0.33621598339155245
+595,517,mh_thane,Thane,thane,27,25,MH,MAHARASHTRA,6.794252632482077
+306,276,mn_thoubal,Thoubal,thoubal,14,14,MN,MANIPUR,0.28039176372178753
+274,254,ar_tirap,Tirap,tirap,12,12,AR,ARUNACHAL PRADESH,0.13185494792789898
+299,770,mn_kamjong,Kamjong,kamjong,14,14,MN,MANIPUR,0.14593991638397935
+276,252,ar_upper_siang,Upper Siang,upper_siang,12,12,AR,ARUNACHAL PRADESH,0.06325375318706597
+277,249,ar_upper_subansiri,Upper Subansiri,upper_subansiri,12,12,AR,ARUNACHAL PRADESH,0.12439037430108432
+395,330,wb_uttar_dinajpur,Uttar Dinajpur,uttar_dinajpur,19,19,WB,WEST BENGAL,6.632961363532319
+71,056,uk_uttarkashi,Uttarkashi,uttarkashi,05,5,UK,UTTARAKHAND,0.45393733521438273
+250,220,bh_vaishali,Vaishali,vaishali,10,10,BH,BIHAR,6.130706665027483
+708,780,ts_mulugu,Mulugu,mulugu,36,33,TS,TELANGANA,0.38523993664341777
+596,504,mh_wardha,Wardha,wardha,27,25,MH,MAHARASHTRA,4.48931168874616
+597,502,mh_washim,Washim,washim,27,25,MH,MAHARASHTRA,1.7195003147372434
+278,246,ar_west_kameng,West Kameng,west_kameng,12,12,AR,ARUNACHAL PRADESH,0.2165856909641223
+266,779,ar_lower_siang,Lower Siang,lower_siang,12,12,AR,ARUNACHAL PRADESH,0.14175798759366443
+93,071,hr_yamunanagar,Yamunanagar,yamunanagar,06,6,HR,HARYANA,2.6150207133379353
+598,510,mh_yavatmal,Yavatmal,yavatmal,27,25,MH,MAHARASHTRA,6.281116391972085
+280,265,nl_dimapur,Dimapur,dimapur,13,13,NL,NAGALAND,0.7795749054815851
+282,270,nl_kohima,Kohima,kohima,13,13,NL,NAGALAND,0.31680530754955594
+281,269,nl_kiphire,Kiphire,kiphire,13,13,NL,NAGALAND,0.07364592669849801
+291,263,nl_zunheboto,Zunheboto,zunheboto,13,13,NL,NAGALAND,0.20028427351208164
+284,262,nl_mokokchung,Mokokchung,mokokchung,13,13,NL,NAGALAND,0.2183208266463089
+285,261,nl_mon,Mon,mon,13,13,NL,NAGALAND,0.3468803109523001
+289,267,nl_tuensang,Tuensang,tuensang,13,13,NL,NAGALAND,0.15877694668860656
+7,021,jk_jammu,Jammu,jammu,01,1,JK,JAMMU & KASHMIR,8.750356834612118
+267,255,ar_lower_subansiri,Lower Subansiri,lower_subansiri,12,12,AR,ARUNACHAL PRADESH,0.12192927501690759
+283,268,nl_longleng,Longleng,longleng,13,13,NL,NAGALAND,0.06947418321780621
+301,771,mn_noney,Noney,noney,14,14,MN,MANIPUR,0.07063674537695454
+302,772,mn_pherzawl,Pherzawl,pherzawl,14,14,MN,MANIPUR,0.0695726326517801
+305,769,mn_tengnoupal,Tengnoupal,tengnoupal,14,14,MN,MANIPUR,0.2958876978100161
+300,767,mn_kangpokpi,Kangpokpi,kangpokpi,14,14,MN,MANIPUR,1.0119787493907604
+298,768,mn_kakching,Kakching,kakching,14,14,MN,MANIPUR,0.16366284288906427
+74,765,hr_charki_dadri,Charki Dadri,charki_dadri,06,6,HR,HARYANA,1.1436368742354928
+382,776,wb_jhargram,Jhargram,jhargram,19,19,WB,WEST BENGAL,1.390733527517795
+390,777,wb_paschim_bardhaman,Paschim Bardhaman,paschim_bardhaman,19,19,WB,WEST BENGAL,4.804988577193717
+383,775,wb_kalimpong,Kalimpong,kalimpong,19,19,WB,WEST BENGAL,0.6285750438147707
+698,744,ts_jogulamba_gadwal,Jogulamba Gadwal,jogulamba_gadwal,36,33,TS,TELANGANA,1.9272873788596583
+272,764,ar_siang,Siang,siang,12,12,AR,ARUNACHAL PRADESH,0.05935466336100599
+279,250,ar_west_siang,West Siang,west_siang,12,12,AR,ARUNACHAL PRADESH,0.045371423777660486
+271,785,ar_shi_yomi,Shi Yomi,shi_yomi,12,12,AR,ARUNACHAL PRADESH,0.025431682342187758
+262,784,ar_lepa_rada,Lepa Rada,lepa_rada,12,12,AR,ARUNACHAL PRADESH,0.014751597678819684
+269,783,ar_pakke_kessang,Pakke Kessang,pakke_kessang,12,12,AR,ARUNACHAL PRADESH,0.1184624295593783
+260,763,ar_kra_daadi,Kra Daadi,kra_daadi,12,12,AR,ARUNACHAL PRADESH,0.06534832876523235
+268,762,ar_namsai,Namsai,namsai,12,12,AR,ARUNACHAL PRADESH,0.4347125779860365
+259,778,ar_kamle,Kamle,kamle,12,12,AR,ARUNACHAL PRADESH,0.06789743657756817
+702,733,ts_kumuram_bheem_asifabad,Kumuram Bheem Asifabad,kumuram_bheem_asifabad,36,33,TS,TELANGANA,0.885487080707558
+705,735,ts_mancherial,Mancherial,mancherial,36,33,TS,TELANGANA,2.420205271241692
+712,734,ts_nirmal,Nirmal,nirmal,36,33,TS,TELANGANA,1.90182211530039
+699,736,ts_kamareddy,Kamareddy,kamareddy,36,33,TS,TELANGANA,1.9224467477765035
+717,740,ts_sangareddy,Sangareddy,sangareddy,36,33,TS,TELANGANA,6.047421690450659
+709,746,ts_nagarkurnool,Nagarkurnool,nagarkurnool,36,33,TS,TELANGANA,1.872899874149384
+721,745,ts_wanaparthy,Wanaparthy,wanaparthy,36,33,TS,TELANGANA,1.5633837478910837
+711,781,ts_narayanpet,Narayanpet,narayanpet,36,33,TS,TELANGANA,1.0996732765430812
+720,743,ts_vikarabad,Vikarabad,vikarabad,36,33,TS,TELANGANA,2.2554650105224052
+707,742,ts_medchal_malkajgiri,Medchal Malkajgiri,medchal_malkajgiri,36,33,TS,TELANGANA,3.1334842379816985
+724,747,ts_yadadri_bhuvanagiri,Yadadri Bhuvanagiri,yadadri_bhuvanagiri,36,33,TS,TELANGANA,2.0475914800335264
+719,748,ts_suryapet,Suryapet,suryapet,36,33,TS,TELANGANA,2.8264270948155708
+701,541,ts_khammam,Khammam,khammam,36,33,TS,TELANGANA,3.888723994303841
+703,751,ts_mahabubabad,Mahabubabad,mahabubabad,36,33,TS,TELANGANA,1.329712233616846
+696,752,ts_jangoan,Jangoan,jangoan,36,33,TS,TELANGANA,1.006648312874609
+723,540,ts_warangal_urban,Warangal Urban,warangal_urban,36,33,TS,TELANGANA,1.7505490443085583
+722,749,ts_warangal_rural,Warangal Rural,warangal_rural,36,33,TS,TELANGANA,3.234035577921047
+697,750,ts_jayashankar,Jayashankar,jayashankar,36,33,TS,TELANGANA,0.6430355044554154
+714,738,ts_peddapalli,Peddapalli,peddapalli,36,33,TS,TELANGANA,3.0147615292402796
+695,737,ts_jagitial,Jagitial,jagitial,36,33,TS,TELANGANA,2.2379526447636495
+715,739,ts_rajanna_sircilla,Rajanna Sircilla,rajanna_sircilla,36,33,TS,TELANGANA,1.671004712726943
+706,535,ts_medak,Medak,medak,36,33,TS,TELANGANA,1.5877412655221985
+258,251,ar_east_siang,East Siang,east_siang,12,12,AR,ARUNACHAL PRADESH,0.14255401397902362
+264,761,ar_longding,Longding,longding,12,12,AR,ARUNACHAL PRADESH,0.11525589952758482
+647,616,tn_ariyalur,Ariyalur,ariyalur,33,30,TN,TAMIL NADU,1.8037736720776247
+648,787,tn_chengalpattu,Chengalpattu,chengalpattu,33,30,TN,TAMIL NADU,4.551199440103383
+649,603,tn_chennai,Chennai,chennai,33,30,TN,TAMIL NADU,2.9904904090207958
+650,632,tn_coimbatore,Coimbatore,coimbatore,33,30,TN,TAMIL NADU,8.340423592287502
+651,617,tn_cuddalore,Cuddalore,cuddalore,33,30,TN,TAMIL NADU,7.3857042044319
+652,630,tn_dharmapuri,Dharmapuri,dharmapuri,33,30,TN,TAMIL NADU,2.8081597355036223
+653,612,tn_dindigul,Dindigul,dindigul,33,30,TN,TAMIL NADU,4.428385530806844
+654,610,tn_erode,Erode,erode,33,30,TN,TAMIL NADU,3.9155528051300825
+656,789,tn_kallakurichchi,Kallakurichchi,kallakurichchi,33,30,TN,TAMIL NADU,2.8796328894837386
+657,629,tn_kanniyakumari,Kanniyakumari,kanniyakumari,33,30,TN,TAMIL NADU,3.9777022373497335
+658,613,tn_karur,Karur,karur,33,30,TN,TAMIL NADU,2.8444000613791878
+660,623,tn_madurai,Madurai,madurai,33,30,TN,TAMIL NADU,3.667328196001392
+672,611,tn_the_nilgiris,The Nilgiris,the_nilgiris,33,30,TN,TAMIL NADU,0.980203720422301
+663,609,tn_namakkal,Namakkal,namakkal,33,30,TN,TAMIL NADU,4.594445507158898
+664,615,tn_perambalur,Perambalur,perambalur,33,30,TN,TAMIL NADU,0.9572284560405746
+665,621,tn_pudukkottai,Pudukkottai,pudukkottai,33,30,TN,TAMIL NADU,2.8969812255146237
+666,626,tn_ramanathapuram,Ramanathapuram,ramanathapuram,33,30,TN,TAMIL NADU,2.073200659521456
+667,786,tn_ranipet,Ranipet,ranipet,33,30,TN,TAMIL NADU,3.7654942525803485
+668,608,tn_salem,Salem,salem,33,30,TN,TAMIL NADU,6.106677034395856
+669,622,tn_sivaganga,Sivaganga,sivaganga,33,30,TN,TAMIL NADU,2.0212100486945452
+673,624,tn_theni,Theni,theni,33,30,TN,TAMIL NADU,1.541585516312332
+670,790,tn_tenkasi,Tenkasi,tenkasi,33,30,TN,TAMIL NADU,2.6109023557892406
+671,620,tn_thanjavur,Thanjavur,thanjavur,33,30,TN,TAMIL NADU,4.82807212180495
+675,619,tn_thiruvarur,Thiruvarur,thiruvarur,33,30,TN,TAMIL NADU,2.3960203184303293
+677,614,tn_tiruchirappalli,Tiruchirappalli,tiruchirappalli,33,30,TN,TAMIL NADU,4.675192750332768
+678,628,tn_tirunelveli,Tirunelveli,tirunelveli,33,30,TN,TAMIL NADU,4.568889650568956
+680,633,tn_tiruppur,Tiruppur,tiruppur,33,30,TN,TAMIL NADU,5.523042667305401
+679,788,tn_tiruppattur,Tiruppattur,tiruppattur,33,30,TN,TAMIL NADU,3.120137463649694
+674,602,tn_thiruvallur,Thiruvallur,thiruvallur,33,30,TN,TAMIL NADU,7.2289469349199535
+681,606,tn_tiruvannamalai,Tiruvannamalai,tiruvannamalai,33,30,TN,TAMIL NADU,5.069969782897581
+676,627,tn_thoothukkudi,Thoothukkudi,thoothukkudi,33,30,TN,TAMIL NADU,5.0840107458098505
+682,605,tn_vellore,Vellore,vellore,33,30,TN,TAMIL NADU,3.4767059543638763
+683,607,tn_viluppuram,Viluppuram,viluppuram,33,30,TN,TAMIL NADU,4.310234659873578
+684,625,tn_virudhunagar,Virudhunagar,virudhunagar,33,30,TN,TAMIL NADU,5.056058415433724
+659,631,tn_krishnagiri,Krishnagiri,krishnagiri,33,30,TN,TAMIL NADU,5.754689566047662
+753,496,dn_dadra_&_nagar_haveli,Dadra & Nagar Haveli,dadra_&_nagar_haveli,39,36,DN,"DADRA,NAGAR HAVELI,DAMAN & DIU",1.3569686315791676
+310,793,mz_hnahthial,Hnahthial,hnahthial,15,15,MZ,MIZORAM,0.06377447339963488
+317,794,mz_saitual,Saitual,saitual,15,15,MZ,MIZORAM,0.047543355189195634
+286,792,nl_noklak,Noklak,noklak,13,13,NL,NAGALAND,0.08730603829394734
+47,797,pb_malerkotla,Malerkotla,malerkotla,03,3,PB,PUNJAB,1.390321051125012
+662,618,tn_nagapattinam,Nagapattinam,nagapattinam,33,30,TN,TAMIL NADU,1.532169437407643
+661,796,tn_mayiladuthurai,Mayiladuthurai,mayiladuthurai,33,30,TN,TAMIL NADU,1.8155077838085083
+627,798,ka_vijayanagar,Vijayanagar,vijayanagar,29,26,KA,KARNATAKA,2.320534995046621
+362,307,as_lakhimpur,Lakhimpur,lakhimpur,18,18,AS,ASSAM,1.106980107774568
+347,325,as_darrang,Darrang,darrang,18,18,AS,ASSAM,1.0428188312081088
+309,284,mz_champhai,Champhai,champhai,15,15,MZ,MIZORAM,0.1276294198366576
+311,795,mz_khawzawl,Khawzawl,khawzawl,15,15,MZ,MIZORAM,0.029269916387936187
+655,604,tn_kanchipuram,KAnchipuram,kanchipuram,33,30,TN,TAMIL NADU,5.430090290777482
+339,799,as_bajali,Bajali,bajali,18,18,AS,ASSAM,0.2803111183964008
+330,800,mg_eastern_west_khasi_hills,Eastern West Khasi Hills,eastern_west_khasi_hills,17,17,MG,MEGHALAYA,0.4715277872459097
+87,069,hr_panchkula,Panchkula,panchkula,06,6,HR,HARYANA,1.909773996652042
+725,805,ap_alluri_sitharama_raju,Alluri Sitharama Raju,alluri_sitharama_raju,37,34,AP,ANDHRA PRADESH,1.3651330460876923
+726,804,ap_anakapalli,Anakapalli,anakapalli,37,34,AP,ANDHRA PRADESH,3.9804056586671694
+727,553,ap_anantpur,Anantpur,anantpur,37,34,AP,ANDHRA PRADESH,5.16772192322836
+728,813,ap_annamayya,Annamayya,annamayya,37,34,AP,ANDHRA PRADESH,3.7656029552339674
+729,810,ap_bapatla,Bapatla,bapatla,37,34,AP,ANDHRA PRADESH,4.751959062945216
+730,554,ap_chittoor,Chittoor,chittoor,37,34,AP,ANDHRA PRADESH,4.719403489237946
+731,545,ap_east_godavari,East Godavari,east_godavari,37,34,AP,ANDHRA PRADESH,4.186753363034862
+733,548,ap_guntur,Guntur,guntur,37,34,AP,ANDHRA PRADESH,4.818884470146637
+734,806,ap_kakinada,Kakinada,kakinada,37,34,AP,ANDHRA PRADESH,5.854927101525375
+735,807,ap_konaseema,Konaseema,konaseema,37,34,AP,ANDHRA PRADESH,4.249145830738017
+736,547,ap_krishna,Krishna,krishna,37,34,AP,ANDHRA PRADESH,4.165685158377454
+737,552,ap_kurnool,Kurnool,kurnool,37,34,AP,ANDHRA PRADESH,4.330430948710541
+739,815,ap_nandyal,Nandyal,nandyal,37,34,AP,ANDHRA PRADESH,4.36822248560263
+738,809,ap_ntr,NTR,ntr,37,34,AP,ANDHRA PRADESH,2.9428642375611247
+740,811,ap_palnadu,Palnadu,palnadu,37,34,AP,ANDHRA PRADESH,4.685443711784761
+732,808,ap_eluru,Eluru,eluru,37,34,AP,ANDHRA PRADESH,4.026812082151695
+742,549,ap_prakasam,Prakasam,prakasam,37,34,AP,ANDHRA PRADESH,5.260470301960053
+743,550,ap_sri_potti_sriramulu_nell*,Sri Potti Sriramulu Nell*,sri_potti_sriramulu_nell*,37,34,AP,ANDHRA PRADESH,6.796410714341725
+745,542,ap_srikakulam,Srikakulam,srikakulam,37,34,AP,ANDHRA PRADESH,2.9557257728153847
+746,812,ap_tirupati,Tirupati,tirupati,37,34,AP,ANDHRA PRADESH,5.511427015704598
+747,544,ap_visakhapatnam,Visakhapatnam,visakhapatnam,37,34,AP,ANDHRA PRADESH,4.209209046315619
+748,543,ap_vizianagaram,Vizianagaram,vizianagaram,37,34,AP,ANDHRA PRADESH,3.3752260337568036
+749,546,ap_west_godavari,West Godavari,west_godavari,37,34,AP,ANDHRA PRADESH,3.338793319689826
+750,551,ap_y_s_r_,Y.S.R.,y_s_r_,37,34,AP,ANDHRA PRADESH,6.081074590328338
+744,814,ap_sri_sathya_sai,Sri Sathya sai,sri_sathya_sai,37,34,AP,ANDHRA PRADESH,3.288200599726187
+741,803,ap_parvathipuram_manyam,Parvathipuram Manyam,parvathipuram_manyam,37,34,AP,ANDHRA PRADESH,1.0536568256749306
+556,472,gj_sabar_kantha,Sabar Kantha,sabar_kantha,24,24,GJ,GUJARAT,2.7717777320665404
