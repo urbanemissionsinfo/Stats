@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+ <style>
+    @keyframes myAnimation{
+    from {fill: red;}
+    to {fill: yellow;}
+ }
+    circle {
+        fill: red;
+        animation-name: myAnimation;
+        animation-duration: 5s;
+        animation-iteration-count: infinite;
+        }
+
+</style>
+<circle cx="30" cy="30" r="25" style="stroke: none;">
+    <animate attributeName="cx" attributeType="XML"
+             from="30"  to="470"
+             begin="0s" dur="5s"
+             fill="freeze" repeatCount="indefinite"/>
+
+</circle>
+</svg>
